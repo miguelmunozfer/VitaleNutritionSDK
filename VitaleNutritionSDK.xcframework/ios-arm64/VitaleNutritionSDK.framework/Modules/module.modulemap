@@ -1,0 +1,11 @@
+framework module VitaleNutritionSDK {
+  umbrella header "VitaleNutritionSDK.h"
+
+  export *
+  module * { export * }
+}
+
+module VitaleNutritionSDK.Swift {
+    header "VitaleNutritionSDK-Swift.h"
+    requires objc
+}

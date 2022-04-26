@@ -1,0 +1,81 @@
+[
+	{
+		"name": "Desayuno",
+		"kcal": 700,
+		"proteina": 30,
+		"carb": 40,
+		"grasa": 20,
+		"platos":[
+			{
+				"name": "Desayuno",
+				"image": "",
+				"kcal": 240,
+				"proteina": 8,
+				"carbohidratos": 10,
+				"grasa": 20,
+				"ingredients": "1 vaso de leche semidesnatada, 40g de pan de grano entero (integral), con 30g de aguacate y 30g de atún"
+			}
+		]
+	},
+	{
+		"name": "Comida",
+		"kcal": 700,
+		"proteina": 30,
+		"carb": 40,
+		"grasa": 20,
+		"platos":[
+			{
+				"name": "Ensalada de tomate, aguacate y salmón",
+				"image": "",
+				"kcal": 240,
+				"proteina": 8,
+				"carbohidratos": 10,
+				"grasa": 20,
+				"ingredients": "600g de pescado, 200g de gambas peladas, 25ml de vino blanco, 100ml de caldo de pescado, 2 cebollas frescas grandes, 3 dientes de ajo, 1 huevo, 1 hoja de laurel, 50gde pan rallado, cebollino, harina para rebozar, perejil , pimienta blanca, sal y aceite de oliva virgen.",
+				"preparacion": "Escaldar los tomates para poder quitarles la piel con facilidad. Cortar el tomate y el aguacate en dados pequeños y cubrir el fondo de un bol o molde. Cortar el salmón en tiras e incorporar sobre el tomate y el aguacate. Aliñar con una mezcla de ajo picado muy fino, aceite, vinagre y un poco de sal.",
+				"category": "Primero"
+			},
+			{
+				"name": "Brócoli al vapor",
+				"image": "",
+				"kcal": 240,
+				"proteina": 8,
+				"carbohidratos": 10,
+				"grasa": 20,
+				"ingredients": "Lomo de cerdo de unos 400g, 2 patatas medianas (150g cada una), 1 calabacín mediano, 1 cebolla, 1 berenjena, 1 zanahoria, 1 pimiento verde, 2-3 dientes de ajo y aceite de oliva virgen.",
+				"preparacion": "Lavar y cortar todas las verduras. Colocarlas en una fuente de horno con un poco de aceite, pimienta y sal. A continuación, salpimentar el lomo y colocar encimad e las verduras. Cocinar durante 25' a unos 200º (dar la vuelta a la mitad del tiempo para que se cocine por ambas caras).",
+				"category": "Segundo"
+			},
+			{
+				"name": "Manzana",
+				"image": "",
+				"kcal": 240,
+				"proteina": 8,
+				"carbohidratos": 10,
+				"grasa": 20,
+				"ingredients": "1 manzana pequeña (100g)",
+				"category": "Postre"
+			}
+		]
+	},
+	{
+		"name": "Cena",
+		"kcal": 700,
+		"proteina": 30,
+		"carb": 40,
+		"grasa": 20,
+		"platos":[
+			{
+				"name": "Ensalada de tomate, aguacate y salmón",
+				"image": "",
+				"kcal": 240,
+				"proteina": 8,
+				"carbohidratos": 10,
+				"grasa": 20,
+				"ingredients": "4 tomates de ensalada, 1 aguacate mediano, 100g de salmón ahumado, aceite de oliva virgen, ajo, sal y vinagre.",
+				"preparacion": "Escaldar los tomates para poder quitarles la piel con facilidad. Cortar el tomate y el aguacate en dados pequeños y cubrir el fondo de un bol o molde. Cortar el salmón en tiras e incorporar sobre el tomate y el aguacate. Aliñar con una mezcla de ajo picado muy fino, aceite, vinagre y un poco de sal.",
+				"category": "Primero"
+			}
+		]
+	}
+]

@@ -1,0 +1,1027 @@
+{
+    "id": 14,
+    "days": [
+        {
+            "day": 1,
+            "intakes": [
+                {
+                    "intakeId": 307,
+                    "day": 1,
+                    "order": 1,
+                    "name": "Desayuno",
+                    "carbs": 60,
+                    "proteins": 25,
+                    "fats": 10,
+                    "kcal": 400,
+                    "dishes": [
+                        {
+                            "name": "Leche con bocadillo de pan con queso fresco y jamón y pera",
+                            "type": 8,
+                            "typeName": "Desayuno",
+                            "carbs": 60,
+                            "proteins": 25,
+                            "fats": 10,
+                            "kcal": 400,
+                            "vegan": false,
+                            "glutenFree": false,
+                            "difficulty": 1,
+                            "ingredients": "1 vaso de leche semidesnatada, 60g de pan integral, 1 loncha de jamón york, 1 cucharada de queso fresco y 1 pera mediana.",
+                            "recipe": "",
+                            "image": "https://nutricion.myvitale.com/images/dishes/"
+                        }
+                    ]
+                },
+                {
+                    "intakeId": 308,
+                    "day": 1,
+                    "order": 2,
+                    "name": "Comida",
+                    "carbs": 65,
+                    "proteins": 50,
+                    "fats": 50,
+                    "kcal": 900,
+                    "dishes": [
+                        {
+                            "name": "Ensalada de tomate, aguacate y salmón",
+                            "type": 10,
+                            "typeName": "Primero",
+                            "carbs": 10,
+                            "proteins": 15,
+                            "fats": 20,
+                            "kcal": 300,
+                            "vegan": false,
+                            "glutenFree": true,
+                            "difficulty": 1,
+                            "ingredients": "1 tomate de ensalada (250g), 75g de aguacate, 40g de salmón ahumado. 1 cucharadita aceite de oliva virgen, ajo, sal y vinagre.                                                                                                                                                                                                        ",
+                            "recipe": "Cortar el tomate y el aguacate en dados pequeños y cubrir el fondo de un bol o molde. Cortar el salmón en tiras e incorporar sobre el tomate y el aguacate. Aliñar con una mezcla de ajo picado muy fino, aceite, vinagre y un poco de sal.",
+                            "image": "https://nutricion.myvitale.com/images/dishes/ensalada-de-tomate-aguacate-y-salmon.jpg"
+                        },
+                        {
+                            "name": "Lomo de cerdo con verduras y patatas",
+                            "type": 11,
+                            "typeName": "Segundo",
+                            "carbs": 35,
+                            "proteins": 35,
+                            "fats": 30,
+                            "kcal": 500,
+                            "vegan": false,
+                            "glutenFree": true,
+                            "difficulty": 1,
+                            "ingredients": "150g lomo de cerdo, 2 patatas pequeñas, 30g de calabacín, 50g de cebolla, 50g de berenjena, 30g de pimiento verde, ajo y 1 cucharadita de aceite de oliva.",
+                            "recipe": "Lavar y cortar todas las verduras. Colocarlas en una fuente de horno con un poco de aceite, pimienta y sal. A continuación, salpimentar el lomo y colocar encimad e las verduras. Cocinar durante 25' a unos 200º (dar la vuelta a la mitad del tiempo para que se cocine por ambas caras). ",
+                            "image": "https://nutricion.myvitale.com/images/dishes/lomo-de-cerdo-con-verduras-y-patatas.jpg"
+                        },
+                        {
+                            "name": "Plátano",
+                            "type": 12,
+                            "typeName": "Postre",
+                            "carbs": 20,
+                            "proteins": 0,
+                            "fats": 0,
+                            "kcal": 100,
+                            "vegan": true,
+                            "glutenFree": true,
+                            "difficulty": 1,
+                            "ingredients": "125g de plátano",
+                            "recipe": "",
+                            "image": "https://nutricion.myvitale.com/images/dishes/platano.jpg"
+                        }
+                    ]
+                },
+                {
+                    "intakeId": 309,
+                    "day": 1,
+                    "order": 3,
+                    "name": "Cena",
+                    "carbs": 75,
+                    "proteins": 40,
+                    "fats": 35,
+                    "kcal": 800,
+                    "dishes": [
+                        {
+                            "name": "Brócoli al vapor",
+                            "type": 10,
+                            "typeName": "Primero",
+                            "carbs": 15,
+                            "proteins": 5,
+                            "fats": 10,
+                            "kcal": 150,
+                            "vegan": true,
+                            "glutenFree": true,
+                            "difficulty": 1,
+                            "ingredients": "1 brócoli mediano (600g), 30g de anacardos, 30g de tahini, 1 limón, 1 cucharadita de aceite de oliva virgen, agua, sal y pimienta.",
+                            "recipe": "Limpiar y lavar el brócoli. Cocer al vapor durante unos 4-5 minutos. Por otro lado, se prepara la salsa, mezclando el tahini con el zumo de limón y un poco de agua. Añadir finalmente un poco de sal y pimienta. Finalmente cortar los anacardos por la mitad y tostar en una sartén sin aceite. Se sirve la salsa sobre el brócoli y se decora con los anacardos.",
+                            "image": "https://nutricion.myvitale.com/images/dishes/brocoli-al-vapor.jpg"
+                        },
+                        {
+                            "name": "Rodajas de merluza al microondas",
+                            "type": 11,
+                            "typeName": "Segundo",
+                            "carbs": 40,
+                            "proteins": 35,
+                            "fats": 25,
+                            "kcal": 550,
+                            "vegan": false,
+                            "glutenFree": true,
+                            "difficulty": 1,
+                            "ingredients": "175g de merluza, 1 tomate pequeño, 90g (peso cocido) de arroz basmati, 1 cucharada de aceite oliva virgen, sal, agua, pimienta y orégano.               ",
+                            "recipe": "Salpimentar los lomos de merluza y colocar en una fuente para microondas. Añadir un poco de aceite de oliva virgen y cubrir el pescado con el tomate cortado en rodajas. Espolvorear un poco de orégano por encima y 4 o 5 cucharadas de agua antes de cocer al microondas durante unos 4-5 minutos a máxima potencia. Para el arroz; Hervir el arroz en agua con un poco de aceite y sal.                                                                                                                                                                                                        ",
+                            "image": "https://nutricion.myvitale.com/images/dishes/rodajas-de-merluza-al-microondas.jpg"
+                        },
+                        {
+                            "name": "Mandarinas",
+                            "type": 12,
+                            "typeName": "Postre",
+                            "carbs": 20,
+                            "proteins": 0,
+                            "fats": 0,
+                            "kcal": 100,
+                            "vegan": true,
+                            "glutenFree": true,
+                            "difficulty": 1,
+                            "ingredients": "2-3 unidades medianas (unos 180-200g)",
+                            "recipe": "",
+                            "image": "https://nutricion.myvitale.com/images/dishes/mandarinas.jpg"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "day": 2,
+            "intakes": [
+                {
+                    "intakeId": 310,
+                    "day": 2,
+                    "order": 1,
+                    "name": "Desayuno",
+                    "carbs": 60,
+                    "proteins": 10,
+                    "fats": 15,
+                    "kcal": 400,
+                    "dishes": [
+                        {
+                            "name": "Copos de avena con leche y piña",
+                            "type": 8,
+                            "typeName": "Desayuno",
+                            "carbs": 60,
+                            "proteins": 10,
+                            "fats": 15,
+                            "kcal": 400,
+                            "vegan": false,
+                            "glutenFree": true,
+                            "difficulty": 1,
+                            "ingredients": "1 vaso de leche semidesnatada, 45g de avena y 1 rodaja mediana de piña",
+                            "recipe": "Calentar la leche en un vaso y añadir la avena. Dejar reposar unos minutos hasta que se absorba la avena. Finalmente, echar por encima la piña cortada.",
+                            "image": "https://nutricion.myvitale.com/images/dishes/copos-de-avena-con-leche-y-pina.jpg"
+                        }
+                    ]
+                },
+                {
+                    "intakeId": 311,
+                    "day": 2,
+                    "order": 2,
+                    "name": "Comida",
+                    "carbs": 60,
+                    "proteins": 60,
+                    "fats": 45,
+                    "kcal": 900,
+                    "dishes": [
+                        {
+                            "name": "Pasta integral con champiñones, guindilla y nata",
+                            "type": 10,
+                            "typeName": "Primero",
+                            "carbs": 50,
+                            "proteins": 10,
+                            "fats": 20,
+                            "kcal": 400,
+                            "vegan": false,
+                            "glutenFree": false,
+                            "difficulty": 1,
+                            "ingredients": "75g de pasta integral (peso crudo), 25g de cebolla, 50g de champiñones, 25ml de nata, guindilla, sal y pimienta.",
+                            "recipe": "Hervir la pasta en una olla con abundante agua con sal. Mientras, cortar la cebolleta en dados pequeños (brunoise) y los champiñones en láminas finas. Sofreir la cebolla junto con la guindilla y añadir los champiñones. Cuando esten acabados, retirar la guindilla y añadir la nata. Salpimentar. Una vez la pasta esta hervida, escurrir y añadir a la preparación, removiendo hasta que quede bien integrada.",
+                            "image": "https://nutricion.myvitale.com/images/dishes/pasta-integral-con-champinones-guindilla-y-nata.jpg"
+                        },
+                        {
+                            "name": "Pollo asado con sésamo",
+                            "type": 11,
+                            "typeName": "Segundo",
+                            "carbs": 0,
+                            "proteins": 50,
+                            "fats": 25,
+                            "kcal": 450,
+                            "vegan": false,
+                            "glutenFree": true,
+                            "difficulty": 2,
+                            "ingredients": "150g pechugas de pollo, 1c de mantequilla, 1c de sésamo, 10g de almendras troceada, 10g de piñones, 2C de vino blanco, 1cucharadita de aceite de oliva, sal y pimienta.",
+                            "recipe": "Untar el pollo con un poco de mantequilla y rebozar con un poco de sésamo. Introducir en el hormo a 220º. A los 15 minutos añadir el vino blanco y seguir cocinando hasta estar asado al punto deseado. Cortar el pollo en medallones . En una sartén, poner un poco de mantequilla y dorar los piñones junto con las almendras",
+                            "image": "https://nutricion.myvitale.com/images/dishes/pollo-asado-con-sesamo.jpg"
+                        },
+                        {
+                            "name": "Fresones",
+                            "type": 12,
+                            "typeName": "Postre",
+                            "carbs": 10,
+                            "proteins": 0,
+                            "fats": 0,
+                            "kcal": 50,
+                            "vegan": true,
+                            "glutenFree": true,
+                            "difficulty": 1,
+                            "ingredients": "200g de fresones",
+                            "recipe": "",
+                            "image": "https://nutricion.myvitale.com/images/dishes/fresones.jpg"
+                        }
+                    ]
+                },
+                {
+                    "intakeId": 312,
+                    "day": 2,
+                    "order": 3,
+                    "name": "Cena",
+                    "carbs": 50,
+                    "proteins": 35,
+                    "fats": 35,
+                    "kcal": 620,
+                    "dishes": [
+                        {
+                            "name": "Crema fría de calabaza",
+                            "type": 10,
+                            "typeName": "Primero",
+                            "carbs": 30,
+                            "proteins": 5,
+                            "fats": 10,
+                            "kcal": 200,
+                            "vegan": false,
+                            "glutenFree": true,
+                            "difficulty": 2,
+                            "ingredients": "150g de calabaza, 40g de cebolla, 80g de patata, 40ml de leche semidesnatada, jenjibre, 1 cucharadita de coco rallado, 1 cucharadita de aceite de oliva virgen y sal.",
+                            "recipe": "Sofreir la cebolla cortada muy fina con un poco de aceite de oliva. A la mitad  de la cocción, añadir el ajo cortado en láminas y un poco de jengibre. Cortar la calabaza y las patatas en dados grandes , salpimentar y dejar sofreir unos dos minutos. Cubrir con la leche y un poco de agua y cocinar (tapando la olla) por unos 20 minutos Triturar toda la preparación con la batidora y enfriar en la nevera antes de servir. ",
+                            "image": "https://nutricion.myvitale.com/images/dishes/crema-fria-de-calabaza.jpg"
+                        },
+                        {
+                            "name": "Tortilla de calabacín, trigueros y jamón",
+                            "type": 11,
+                            "typeName": "Segundo",
+                            "carbs": 0,
+                            "proteins": 30,
+                            "fats": 25,
+                            "kcal": 350,
+                            "vegan": false,
+                            "glutenFree": true,
+                            "difficulty": 1,
+                            "ingredients": "2 huevos L, 3 espárragos verdes, 25g de jamón cocido, 50g de cebolla, 1 cucharadita de aceite oliva virgen y sal.",
+                            "recipe": "Cortar los espárragos en trozos  y la cebolla en dados. Sofreir en una sartén con un poco de aceite. Una vez cocinado (unos 10-15 minutos) añadir los huevos batidos y el jamón cortado en tiras finas. Salpimentar y cuajar la tortilla en una sartén antiadherente.",
+                            "image": "https://nutricion.myvitale.com/images/dishes/tortilla-de-calabacin-trigueros-y-jamon.jpg"
+                        },
+                        {
+                            "name": "Melocotón",
+                            "type": 12,
+                            "typeName": "Postre",
+                            "carbs": 20,
+                            "proteins": 0,
+                            "fats": 0,
+                            "kcal": 70,
+                            "vegan": true,
+                            "glutenFree": true,
+                            "difficulty": 1,
+                            "ingredients": "200g",
+                            "recipe": "",
+                            "image": "https://nutricion.myvitale.com/images/dishes/melocoton.jpg"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "day": 3,
+            "intakes": [
+                {
+                    "intakeId": 313,
+                    "day": 3,
+                    "order": 1,
+                    "name": "Desayuno",
+                    "carbs": 60,
+                    "proteins": 25,
+                    "fats": 15,
+                    "kcal": 400,
+                    "dishes": [
+                        {
+                            "name": "Leche, tostada de pan integral con aguacate y atún y frambuesas",
+                            "type": 8,
+                            "typeName": "Desayuno",
+                            "carbs": 60,
+                            "proteins": 25,
+                            "fats": 15,
+                            "kcal": 400,
+                            "vegan": false,
+                            "glutenFree": false,
+                            "difficulty": 1,
+                            "ingredients": "1 vaso de leche semidesnatada, 60g de pan integral, 30g de aguacate, 30g de atún, 200g de frambuesas",
+                            "recipe": "Disponer encima del pan el aguacate cortado en rodajas y el atún. Acompañar las tostada con 1 vaso de leche y unas frambuesas.",
+                            "image": "https://nutricion.myvitale.com/images/dishes/leche-y-tostada-de-pan-integral-con-aguacate-y-atun-y-frambuesas.jpg"
+                        }
+                    ]
+                },
+                {
+                    "intakeId": 314,
+                    "day": 3,
+                    "order": 2,
+                    "name": "Comida",
+                    "carbs": 65,
+                    "proteins": 45,
+                    "fats": 25,
+                    "kcal": 760,
+                    "dishes": [
+                        {
+                            "name": "Ensalada de lenteja y queso feta",
+                            "type": 10,
+                            "typeName": "Primero",
+                            "carbs": 45,
+                            "proteins": 25,
+                            "fats": 15,
+                            "kcal": 500,
+                            "vegan": false,
+                            "glutenFree": true,
+                            "difficulty": 1,
+                            "ingredients": "125 g de lentejas rojas (peso cocido), 40g de tomates Cherry, 40g de pepino, 25g de queso feta, unas hojas de albahaca, 10g de frutos secos tostados, 1 cucharadita de aceite de oliva,vinagre y 1 limón. Acompañar el plato con 1 rebanada de pan integral (40g).",
+                            "recipe": "Mezclar en un bol las lentejas junto con los tomates cortados a mitades y el pepino y el queso feta cortados en cuadraditos. Hacer una vinagreta con el aceite, el vinagre y los frutos secos. Mezclar bien toda la preparación y decorar finalmente con la albahaca picada.",
+                            "image": "https://nutricion.myvitale.com/images/dishes/ensalada-de-lenteja-y-queso-feta.jpg"
+                        },
+                        {
+                            "name": "Mejillones a la vinagreta",
+                            "type": 11,
+                            "typeName": "Segundo",
+                            "carbs": 0,
+                            "proteins": 20,
+                            "fats": 10,
+                            "kcal": 200,
+                            "vegan": false,
+                            "glutenFree": true,
+                            "difficulty": 1,
+                            "ingredients": "4 mejillones,  80g pimiento verde y rojo, 30g encurtidos, 1 cucharadita de aceite de oliva virgen y vinagre",
+                            "recipe": "Una vez se han limpiado bien los mejillones, hervir en agua abundante con un poco de sal hasta que se abran.  Picar bien el pimiento junto con los encurtidos y aliñar con aceite y vinagre. Cubir los mejillones con esta preparación.",
+                            "image": "https://nutricion.myvitale.com/images/dishes/mejillones-a-la-vinagreta.jpg"
+                        },
+                        {
+                            "name": "Albaricoques",
+                            "type": 12,
+                            "typeName": "Postre",
+                            "carbs": 20,
+                            "proteins": 0,
+                            "fats": 0,
+                            "kcal": 60,
+                            "vegan": true,
+                            "glutenFree": true,
+                            "difficulty": 1,
+                            "ingredients": "200g de albaricoques",
+                            "recipe": "",
+                            "image": "https://nutricion.myvitale.com/images/dishes/albaricoques.jpg"
+                        }
+                    ]
+                },
+                {
+                    "intakeId": 315,
+                    "day": 3,
+                    "order": 3,
+                    "name": "Cena",
+                    "carbs": 70,
+                    "proteins": 40,
+                    "fats": 35,
+                    "kcal": 750,
+                    "dishes": [
+                        {
+                            "name": "Pisto",
+                            "type": 10,
+                            "typeName": "Primero",
+                            "carbs": 10,
+                            "proteins": 0,
+                            "fats": 10,
+                            "kcal": 150,
+                            "vegan": true,
+                            "glutenFree": true,
+                            "difficulty": 1,
+                            "ingredients": "1 tomate mediano maduro (200g),  50g de cebolla, 40g de pimiento rojo, 40g de pimiento verde, 40g de calabacín, ajo, 1 cucharadita de aceite de oliva, pimienta negra y sal. ",
+                            "recipe": "Escaldar y pelar los tomates parta triturarlos posteriormente. Pelar y picar finamente los ajos y la cebolla. Pocharlos en una sartén con aceite durante unos 15 minutos a fuego suave. Añadir el pimiento bien picado y pochar porotros 15 minutos más. Finalmente, incorporar el calabacin picado y el tomate triturado. Salpimentar y dejar pochar por lo menos otros 90 minutos. Posteriormente, subir el fuego y cocer hasta que se evapore todo el agua del tomate.",
+                            "image": "https://nutricion.myvitale.com/images/dishes/pisto.jpg"
+                        },
+                        {
+                            "name": "Hamburguesa a la plancha con patatas deluxe",
+                            "type": 11,
+                            "typeName": "Segundo",
+                            "carbs": 50,
+                            "proteins": 40,
+                            "fats": 25,
+                            "kcal": 550,
+                            "vegan": false,
+                            "glutenFree": false,
+                            "difficulty": 2,
+                            "ingredients": "Hamburguesa: 150g de carne de vaca, 1/2 huevo, 1C de pan rallado, ajo en polvo, perejil, pimienta, 1 cucharadita de aceite de oliva y sal. Patatas deluxe: 1 patata mediana (200g), 1 cucharadita de ajo en polvo, 1 cucharadita de tomillo, 1 cucharadita de orégano, 1 cucharadita de pimentón dulce, sal, aceite de oliva virgen.                                                                                                                                                                                                                                                                    ",
+                            "recipe": "Para la hamburguesa: En una fuente mezclar la carne con el pan rallado, el huevo batido, el ajo y el perejil. Salpimentar y dividir en 4 partes, dando forma de hamburguesa. Cocinar a la plancha o brasa con un poco de aceite de oliva. Para las patatas deluxe: Lavar y cortar las patatas en forma de gajos. Mezclar en un bol las especias junto con un poco de sal y reboza los gajos de patata con la preparación. Hornear a 220º durante unos 30 minutos.                                                                                                                                                                                                         ",
+                            "image": "https://nutricion.myvitale.com/images/dishes/hamburguesa-a-la-plancha.jpg"
+                        },
+                        {
+                            "name": "Melón",
+                            "type": 12,
+                            "typeName": "Postre",
+                            "carbs": 10,
+                            "proteins": 0,
+                            "fats": 0,
+                            "kcal": 50,
+                            "vegan": true,
+                            "glutenFree": true,
+                            "difficulty": 1,
+                            "ingredients": "200g de melón",
+                            "recipe": "",
+                            "image": "https://nutricion.myvitale.com/images/dishes/melon.jpg"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "day": 4,
+            "intakes": [
+                {
+                    "intakeId": 316,
+                    "day": 4,
+                    "order": 1,
+                    "name": "Desayuno",
+                    "carbs": 60,
+                    "proteins": 30,
+                    "fats": 15,
+                    "kcal": 500,
+                    "dishes": [
+                        {
+                            "name": "Yogur y tostadas de jamón serrano y queso de huntar",
+                            "type": 8,
+                            "typeName": "Desayuno",
+                            "carbs": 60,
+                            "proteins": 30,
+                            "fats": 15,
+                            "kcal": 500,
+                            "vegan": false,
+                            "glutenFree": false,
+                            "difficulty": 1,
+                            "ingredients": "1 yogur natural, 30g de cereales integrales, 60g de biscotes integrales, 1 cucharadita de queso para untar, 1 loncha de jamón serrano",
+                            "recipe": "Disponer el queso de untar en la tostada y el jamón serrano. Acompañar la tostada con 1 yogur natural.",
+                            "image": "https://nutricion.myvitale.com/images/dishes/yogur-y-tostadas-de-jamon-serrano-y-queso-de-huntar.jpg"
+                        }
+                    ]
+                },
+                {
+                    "intakeId": 317,
+                    "day": 4,
+                    "order": 2,
+                    "name": "Comida",
+                    "carbs": 50,
+                    "proteins": 55,
+                    "fats": 50,
+                    "kcal": 950,
+                    "dishes": [
+                        {
+                            "name": "Risotto de quinoa",
+                            "type": 10,
+                            "typeName": "Primero",
+                            "carbs": 40,
+                            "proteins": 15,
+                            "fats": 20,
+                            "kcal": 500,
+                            "vegan": false,
+                            "glutenFree": false,
+                            "difficulty": 2,
+                            "ingredients": "75g de quinoa, 50g de cebolla, 2C de vino blanco, 1 vaso de caldo de pollo, 40g de hongos, 1 cucharadita de queso parmesano, 1 cucharadita de mantequilla, 1 cucharadita de queso crema, 1 cucharadita de aceite oliva virgen, sal y pimienta.",
+                            "recipe": "Lavar la quínoa y hervirla unos 10 minutos en el caldo de verduras. Retirar y dejar reposar para que absorba todo el líquido. En una cazuela rehogar la cebolla picada, agregar los hongos y salpimentar. Añadir el vino blanco y cocinar hasta que se evapore todo el líquido. Añadir la quínoa, remover y cocinarla unos 2 minutos. Retirar del fuego y añadir la mantequilla, mezclando hasta que se funda. Agregar el queso crema y finalmente el parmesano rallado y remover hasta que quede bien integrado.",
+                            "image": "https://nutricion.myvitale.com/images/dishes/risotto-de-quinoa.jpg"
+                        },
+                        {
+                            "name": "Alitas de pollo con hierbas, ajo y  queso parmesano",
+                            "type": 11,
+                            "typeName": "Segundo",
+                            "carbs": 0,
+                            "proteins": 40,
+                            "fats": 30,
+                            "kcal": 400,
+                            "vegan": false,
+                            "glutenFree": false,
+                            "difficulty": 1,
+                            "ingredients": "4 alitas de pollo, ajo, 1 cucharada de queso parmesano, 1 cucharadita de hierbas frescas, perejil, salvia o romero, pimienta negra molida, 1 cucharadita de aceite oliva virgen y sal.",
+                            "recipe": "Precalentar el horno a 200º.  Salpimentar las alitas y ponerlas al horno durante 40min a 180º . En un bol preparar los ajos picados muy pequeños, el queso parmesano rallado, las hierbas frescas que alijas muy pequeñas y un chorrito de aceite. Sacar las alitas y untar con la mezcla. Poner de nuevo en el horno unos 10min-15min hasta dorarlas.",
+                            "image": "https://nutricion.myvitale.com/images/dishes/alitas-de-pollo-con-hierbas-ajo-y-queso-parmesano.jpg"
+                        },
+                        {
+                            "name": "Manzana",
+                            "type": 12,
+                            "typeName": "Postre",
+                            "carbs": 10,
+                            "proteins": 0,
+                            "fats": 0,
+                            "kcal": 50,
+                            "vegan": true,
+                            "glutenFree": true,
+                            "difficulty": 1,
+                            "ingredients": "1 manzana pequeña (100g)",
+                            "recipe": "",
+                            "image": "https://nutricion.myvitale.com/images/dishes/manzana.jpg"
+                        }
+                    ]
+                },
+                {
+                    "intakeId": 318,
+                    "day": 4,
+                    "order": 3,
+                    "name": "Cena",
+                    "carbs": 50,
+                    "proteins": 35,
+                    "fats": 15,
+                    "kcal": 500,
+                    "dishes": [
+                        {
+                            "name": "Salmorejo ligero",
+                            "type": 10,
+                            "typeName": "Primero",
+                            "carbs": 25,
+                            "proteins": 5,
+                            "fats": 5,
+                            "kcal": 150,
+                            "vegan": true,
+                            "glutenFree": false,
+                            "difficulty": 1,
+                            "ingredients": "400g de tomate maduro, 20g de pan, ajo, 1 cucharadita de aceite de oliva virgen, agua y sal.",
+                            "recipe": "Triturar los tomates previamente lavados, sin piel ni pepitas. Incorporar el pan, dejando que se empape bien por unos 10 minutos. Incorporar el ajo (medio o 1 diente según gustos) y el aceite para que emulsione. Rectificar de sal. Este plato se suele servir con jamón y huevo picado por encima.",
+                            "image": "https://nutricion.myvitale.com/images/dishes/salmorejo-ligero.jpg"
+                        },
+                        {
+                            "name": "Bacalao en salsa verde",
+                            "type": 11,
+                            "typeName": "Segundo",
+                            "carbs": 5,
+                            "proteins": 30,
+                            "fats": 10,
+                            "kcal": 300,
+                            "vegan": false,
+                            "glutenFree": false,
+                            "difficulty": 1,
+                            "ingredients": "175g de bacalao fresco, ajo, medio vaso de caldo de pescado, 1 cucharada de vino blanco, perejil fresco, 1 cucharadita de harina, 1 guindilla y 1 cucharadita aceite oliva virgen.",
+                            "recipe": "Poner en una cazuela el aceite y los ajos laminados muy finos. Cuando empiecen a freírse, pero aun no estén tostados, enharinar los lomos de bacalao y ponerlos a freír, vigilando que no se agarren. Sin dar la vuelta al bacalao, añadir el vino y el caldo y remover la cazuela cogiéndola por las asas, haciendo círculos con la cazuela en las manos, para que los líquidos vayan cociendo el pescado por arriba y hasta que espesen por la acción de la harina. Añadir la guindilla y el perejil picado muy finito. Tapar y dejar cocer 3-4 min más. Para del fuego y sacar la guindilla. En caso de hacer receta con bacalao fresco, probar y corregir de sal, sino no es necesario.                                                                                                                                                                                                        ",
+                            "image": "https://nutricion.myvitale.com/images/dishes/bacalao-en-salsa-verde.jpg"
+                        },
+                        {
+                            "name": "Cerezas",
+                            "type": 12,
+                            "typeName": "Postre",
+                            "carbs": 20,
+                            "proteins": 0,
+                            "fats": 0,
+                            "kcal": 50,
+                            "vegan": true,
+                            "glutenFree": true,
+                            "difficulty": 1,
+                            "ingredients": "100g de cerezas",
+                            "recipe": "",
+                            "image": "https://nutricion.myvitale.com/images/dishes/cerezas.jpg"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "day": 5,
+            "intakes": [
+                {
+                    "intakeId": 319,
+                    "day": 5,
+                    "order": 1,
+                    "name": "Desayuno",
+                    "carbs": 60,
+                    "proteins": 20,
+                    "fats": 20,
+                    "kcal": 450,
+                    "dishes": [
+                        {
+                            "name": "Porridge de avena, nueces y frutos rojos",
+                            "type": 8,
+                            "typeName": "Desayuno",
+                            "carbs": 60,
+                            "proteins": 20,
+                            "fats": 20,
+                            "kcal": 450,
+                            "vegan": false,
+                            "glutenFree": false,
+                            "difficulty": 1,
+                            "ingredients": "1 vaso de leche semidesnatada, 45g de avena, 3 nueces y 200g de frutos rojos",
+                            "recipe": "Calentar un bol de leche, echar la avena en su interior y tapar el bol. Esperar unos minutos hasta que la avena se haya absorbido y echar por encima, unas nueces picadas y unos frutos rojos.",
+                            "image": "https://nutricion.myvitale.com/images/dishes/porridge-de-avena-nueces-y-frutos-rojos.jpg"
+                        }
+                    ]
+                },
+                {
+                    "intakeId": 320,
+                    "day": 5,
+                    "order": 2,
+                    "name": "Comida",
+                    "carbs": 75,
+                    "proteins": 65,
+                    "fats": 50,
+                    "kcal": 1110,
+                    "dishes": [
+                        {
+                            "name": "Ensalada de garbanzos con jamón y pan integral",
+                            "type": 10,
+                            "typeName": "Primero",
+                            "carbs": 60,
+                            "proteins": 20,
+                            "fats": 20,
+                            "kcal": 550,
+                            "vegan": false,
+                            "glutenFree": true,
+                            "difficulty": 1,
+                            "ingredients": "140g de garbanzos cocidos, 1 loncha de jamón serrano, 25g de aceitunas negras, 1 cucharada de maíz, 1 cucharada de guisantes, 50g de zanahoria, 2 pepinillos en vinagre, 1 tomate pequeño, 50g de pimiento rojo, 30g de pan integral, 1 cucharadita de aceite de oliva virgen, sal y pimienta.",
+                            "recipe": "Lavar y colar los garbanzos, el maiz y los guisantes. Cortar el jamón en tacos pequeños, así como la zanahoria, los pepinillos y el pimiento. Pelar los tomates, quitándoles las pepitas y picar en dados pequeños. Mezclar todo en un bol o fuente, salpimentar y aliñar con una cucharada sopera de aceite de oliva. Acompañar el plato con pan integral.",
+                            "image": "https://nutricion.myvitale.com/images/dishes/ensalada-de-garbanzos-con-jamon-y-pan-integral.jpg"
+                        },
+                        {
+                            "name": "Salmón salvaje con salsa de yogur, queso fresco e hinojo",
+                            "type": 11,
+                            "typeName": "Segundo",
+                            "carbs": 5,
+                            "proteins": 45,
+                            "fats": 30,
+                            "kcal": 500,
+                            "vegan": false,
+                            "glutenFree": false,
+                            "difficulty": 2,
+                            "ingredients": "1 lomo de supremas de salmón (175g), 1 hinojo, 10 g de rúcula, 40g de huevas de salmón, 1 cucharada yogur griego, 1 cucharadita de queso fresco tipo crema, eneldo , 1 lima , 1 cucharadita de aceite de oliva virgen y sal",
+                            "recipe": "En un bol preparar la salsa de yogur. Rallar la piel de la lima, añadir el queso crema, el yogur, el jugo de la lima, el eneldo picado, la sal y un poco de aceite de oliva. Mezclar bien los ingredientes y reservar. Servir el salmón junto con la ensalada de hinojo y rúcula y poner la salsa de yogur por encima. Decorar con las huevas de salmón, unas ramitas de eneldo, sal gorda y un chorrito de aceite de oliva.",
+                            "image": "https://nutricion.myvitale.com/images/dishes/salmon-salvaje-con-salsa-de-yogur-queso-fresco-e-hinojo.jpg"
+                        },
+                        {
+                            "name": "Sandía",
+                            "type": 12,
+                            "typeName": "Postre",
+                            "carbs": 10,
+                            "proteins": 0,
+                            "fats": 0,
+                            "kcal": 60,
+                            "vegan": true,
+                            "glutenFree": true,
+                            "difficulty": 1,
+                            "ingredients": "1 rodaja de sandía (200g)",
+                            "recipe": "",
+                            "image": "https://nutricion.myvitale.com/images/dishes/sandia.jpg"
+                        }
+                    ]
+                },
+                {
+                    "intakeId": 321,
+                    "day": 5,
+                    "order": 3,
+                    "name": "Cena",
+                    "carbs": 60,
+                    "proteins": 70,
+                    "fats": 35,
+                    "kcal": 850,
+                    "dishes": [
+                        {
+                            "name": "Lasaña de verduras",
+                            "type": 10,
+                            "typeName": "Primero",
+                            "carbs": 40,
+                            "proteins": 15,
+                            "fats": 15,
+                            "kcal": 350,
+                            "vegan": false,
+                            "glutenFree": false,
+                            "difficulty": 2,
+                            "ingredients": "6 placas de canelón, 30g de cebolla, 30g de calabacín, 30g de berenjena, 30g de zanahoria, 40g de brócoli, 2 cucharada de salsa de tomate, 1 cucharadita de queso rallado, medio vaso de leche semidesnatada, 1 cucharadita de harina, 1 cucharadita de mantequilla, sal, nuez moscada, 1 cucharadita de aceite de oliva ",
+                            "recipe": "Preparar la bechamel colocando en un cazo, afuego suave, la mantequilla. Cuando se derrita añadir la harina y remover hasta conseguir una pasta sin grumos. Añadir medio vaso de leche y seguir mezclando. Una vez todo esta integrado, añadir el otro medio vaso de leche removiendo continuamente con una varilla o cuchara. Añadir sal y especias como pimienta blanca y nuez moscada. Apartar del fuego cuando la salsa tenga una textura cremosa y reservar. Preparar las placas de lasaña según las indicaciones del fabricante. Lavar las verduras y cortarlas en trozos pequeños. Saltear cada verdura (empezando por el brócoli, zanahoria y cebolla unos 10 minutos y despiués añadir ela berenjena y el calabacín) hasta que estén un poco doradas y reservar. Montar la lasaña colocando en la base de una fuente de horno con mantequillay colocar 6 placas de pasta. Añadir 1/3 de la salsa de tomate y 1/4 de la bechamel y una parte de las verduras y así (en esta proporción) hasta finalizar todos los ingredientes. Una vez ya esté montada, cubrir con la bechamel restante y el queso rallado. Hornear 15 minutos a 180º.",
+                            "image": "https://nutricion.myvitale.com/images/dishes/lasana-de-verduras.jpg"
+                        },
+                        {
+                            "name": "Filete de pavo a la mostaza",
+                            "type": 11,
+                            "typeName": "Segundo",
+                            "carbs": 0,
+                            "proteins": 45,
+                            "fats": 15,
+                            "kcal": 350,
+                            "vegan": false,
+                            "glutenFree": true,
+                            "difficulty": 1,
+                            "ingredients": "125g de pavo, 1 cucharada de mostaza,  1 cucharadita  de miel, 1 cucharadita de crema de leche, hierbas provenzales.",
+                            "recipe": "Filetear el pavo y hacer a la plancha. Por otr lado, hacer una vinagreta mezclando el resto de ingredientes y añadirla al pavo ya preparado.",
+                            "image": "https://nutricion.myvitale.com/images/dishes/filete-de-pavo-a-la-mostaza.jpg"
+                        },
+                        {
+                            "name": "Yogur con mango",
+                            "type": 12,
+                            "typeName": "Postre",
+                            "carbs": 20,
+                            "proteins": 10,
+                            "fats": 5,
+                            "kcal": 150,
+                            "vegan": false,
+                            "glutenFree": true,
+                            "difficulty": 1,
+                            "ingredients": "1 yogur natural, 1/2 de mango (120g) y 1 lima.",
+                            "recipe": "Verter el yogur en un bol o vaso. Picar el mango en cuadraditos pequeños y rallar por encima un poco de lima.",
+                            "image": "https://nutricion.myvitale.com/images/dishes/yogur-con-mango.jpg"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "day": 6,
+            "intakes": [
+                {
+                    "intakeId": 322,
+                    "day": 6,
+                    "order": 1,
+                    "name": "Desayuno",
+                    "carbs": 60,
+                    "proteins": 20,
+                    "fats": 25,
+                    "kcal": 500,
+                    "dishes": [
+                        {
+                            "name": "Yogur con cereales y tostada de queso con aceite de oliva virgen",
+                            "type": 8,
+                            "typeName": "Desayuno",
+                            "carbs": 60,
+                            "proteins": 20,
+                            "fats": 25,
+                            "kcal": 500,
+                            "vegan": false,
+                            "glutenFree": false,
+                            "difficulty": 1,
+                            "ingredients": "1 yogur natural, 30g de cereales integrales, 70g de pan integral, 30g de queso curado y 1 cucharadita de aceite de oliva virgen",
+                            "recipe": "Disponer el queso encima de la tostada y echar un chorrito de aceite de oliva virgen. Acompañar el pan con 1 yogur con cereales.",
+                            "image": "https://nutricion.myvitale.com/images/dishes/"
+                        }
+                    ]
+                },
+                {
+                    "intakeId": 323,
+                    "day": 6,
+                    "order": 2,
+                    "name": "Comida",
+                    "carbs": 70,
+                    "proteins": 30,
+                    "fats": 35,
+                    "kcal": 750,
+                    "dishes": [
+                        {
+                            "name": "Arroz salvaje con pasas y piñones",
+                            "type": 10,
+                            "typeName": "Primero",
+                            "carbs": 40,
+                            "proteins": 5,
+                            "fats": 15,
+                            "kcal": 300,
+                            "vegan": true,
+                            "glutenFree": true,
+                            "difficulty": 1,
+                            "ingredients": "45g de arroz salvaje, 10g de piñones, 7g de pasas, 1 cucharadita de salsa de soja (Sin gluten), 1 cucharaditade aceite de oliva virgen y sal.",
+                            "recipe": "Hervir el arroz. En una sartén rehogar las pasas y los piñones con un poco de aceite. Remover bien y al final añadir la salsa de soja y sal al gusto.",
+                            "image": "https://nutricion.myvitale.com/images/dishes/arroz-salvaje-con-pasas-y-pinones.jpg"
+                        },
+                        {
+                            "name": "Ragú de conejo a las finas hierbas",
+                            "type": 11,
+                            "typeName": "Segundo",
+                            "carbs": 10,
+                            "proteins": 25,
+                            "fats": 20,
+                            "kcal": 350,
+                            "vegan": false,
+                            "glutenFree": true,
+                            "difficulty": 1,
+                            "ingredients": "100g de conejo, 1 salchicha, media zanahoria, 1 patata pequeña, 50 g cebolla, ajo, hojas de laurel, 1 cucharada de vino blanco , 2 cucharadas de caldo de carne, 1 cucharadita de aceite de oliva virgen, romero, saco de hierbas, pimienta negra en grano, sal.",
+                            "recipe": "Sofreír los trozos de conejo en aceite con los ajos y retirar. En el mismo aceite, saltear las salchichas, la zanahoria cortada en rodajas, la patata cortada en dados pequeños y la cebolla. Rehogar hasta ver los trozos de zanahoria o patata algo tostados y añadir una cucharada de harina, seguir removiendo para cocer la harina, y añadir la sal y la pimienta negra entera y el saco de hierbas. Añadir el vino blanco y el caldo de carne y dejar cocer hasta que se integren bien todos los ingredientes. Poner en una bandeja de horno, los trozos de conejo y las verduras y caldo obtenido de la cocción anterior. Añadir el Romero fresco al gusto y hornear durante 30 -45 min. Revisar la cocción de la carne por si los trozos son pequeños para que no quede seca.",
+                            "image": "https://nutricion.myvitale.com/images/dishes/ragu-de-conejo-a-las-finas-hierbas.jpg"
+                        },
+                        {
+                            "name": "Pera al microondas con canela",
+                            "type": 12,
+                            "typeName": "Postre",
+                            "carbs": 20,
+                            "proteins": 0,
+                            "fats": 0,
+                            "kcal": 100,
+                            "vegan": true,
+                            "glutenFree": true,
+                            "difficulty": 1,
+                            "ingredients": "Pera (200g), y canela.",
+                            "recipe": "Lavar la pera y cortar en cuartos. Poner los trozos en un plato y tapar con un papel film transparente. Introducir en el microondas, y cocinar duante unos 8 minutos a máxima potencia. Sacar del microondas y espolvorear un poco de canela.",
+                            "image": "https://nutricion.myvitale.com/images/dishes/pera-al-microondas-con-canela.jpg"
+                        }
+                    ]
+                },
+                {
+                    "intakeId": 324,
+                    "day": 6,
+                    "order": 3,
+                    "name": "Cena",
+                    "carbs": 60,
+                    "proteins": 35,
+                    "fats": 35,
+                    "kcal": 590,
+                    "dishes": [
+                        {
+                            "name": "Ensalada de patata y judía",
+                            "type": 10,
+                            "typeName": "Primero",
+                            "carbs": 40,
+                            "proteins": 5,
+                            "fats": 15,
+                            "kcal": 250,
+                            "vegan": true,
+                            "glutenFree": true,
+                            "difficulty": 1,
+                            "ingredients": "1 patata grande, 40g de tomates cherry, 25g de aceitunas, 40g de judías verdes, 1 cucharadita de vinagre balsámico, 1 cucharada de aceite de oliva virge, perejil fresco.",
+                            "recipe": "Hervir las patatas y la judía verde. Una vez enfriadas, cortar las patatas a cuadrados. Hacer una vinagreta con el vinagre y el aceite de oliva. Mezclar todos los ingredientes en un bol, cortando los tomates a mitades, la aceitunas y las judías a trozos.  Añadir la vinagreta y servir.                                                                                                                                                                                                        ",
+                            "image": "https://nutricion.myvitale.com/images/dishes/ensalada-de-patata-y-judia.jpg"
+                        },
+                        {
+                            "name": "Tataki de atún con mayonesa de anchoas",
+                            "type": 11,
+                            "typeName": "Segundo",
+                            "carbs": 0,
+                            "proteins": 30,
+                            "fats": 20,
+                            "kcal": 250,
+                            "vegan": false,
+                            "glutenFree": true,
+                            "difficulty": 1,
+                            "ingredients": "125g de atún, 1 rábano , 25g cebolla fresca, 1 cucharada de mayonesa (Sin gluten), 1 filete de anchoa , 1 pepinillo dulce, cebollino y estragón, 1 cucharadita aceite de oliva virgen y sal gorda.",
+                            "recipe": "Picar las anchoas y los pepinillos pequeños y añadirlos a la mayonesa. Mezclar bien y reservar. Pasar los lomos de atún por la plancha, unos 2 minutos por cada lado, procurando que el interior quede poco hecho y reservar. Cortar los rábanos y la cebolla fresca en juliana muy fina. Poner en un bol y aliñar con un poco de aceite de oliva. Para emplatar, cortar el lomo de atún en rodajas y servir intercalando entre rodaja y rodaja, la mezcla de cebolla y rábanos. Terminar con la salsa mayonesa sobre el atún y espolvorear un poco de cebollino picado y sal gorda por encima.                                                                                                                                                                                                    ",
+                            "image": "https://nutricion.myvitale.com/images/dishes/tataki-de-atun-con-mayonesa-de-anchoas.jpg"
+                        },
+                        {
+                            "name": "Macedonia de frutas",
+                            "type": 12,
+                            "typeName": "Postre",
+                            "carbs": 20,
+                            "proteins": 0,
+                            "fats": 0,
+                            "kcal": 90,
+                            "vegan": true,
+                            "glutenFree": true,
+                            "difficulty": 1,
+                            "ingredients": "50g de kiwi, 50g de melocotón, 50g de manzana y edulcorante al gusto.",
+                            "recipe": "Picar las frutas y mezclar las frutas en un bol.",
+                            "image": "https://nutricion.myvitale.com/images/dishes/macedonia-de-frutas.jpg"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "day": 7,
+            "intakes": [
+                {
+                    "intakeId": 325,
+                    "day": 7,
+                    "order": 1,
+                    "name": "Desayuno",
+                    "carbs": 60,
+                    "proteins": 10,
+                    "fats": 15,
+                    "kcal": 350,
+                    "dishes": [
+                        {
+                            "name": "Yogur con muesli y macedonia de frutas",
+                            "type": 8,
+                            "typeName": "Desayuno",
+                            "carbs": 60,
+                            "proteins": 10,
+                            "fats": 15,
+                            "kcal": 350,
+                            "vegan": false,
+                            "glutenFree": false,
+                            "difficulty": 1,
+                            "ingredients": "2 yogures naturales, 60g de muesli, 200g de macedonia de frutas al natural",
+                            "recipe": "Disponer el yogur en un bol e incorporar el muesli. Acompañar el bol con una macedonia de frutas.",
+                            "image": "https://nutricion.myvitale.com/images/dishes/yogur-con-muesli-y-macedonia-de-frutas.jpg"
+                        }
+                    ]
+                },
+                {
+                    "intakeId": 326,
+                    "day": 7,
+                    "order": 2,
+                    "name": "Comida",
+                    "carbs": 60,
+                    "proteins": 55,
+                    "fats": 20,
+                    "kcal": 660,
+                    "dishes": [
+                        {
+                            "name": "Hummus de judías blancas",
+                            "type": 10,
+                            "typeName": "Primero",
+                            "carbs": 30,
+                            "proteins": 15,
+                            "fats": 10,
+                            "kcal": 250,
+                            "vegan": true,
+                            "glutenFree": true,
+                            "difficulty": 2,
+                            "ingredients": "60 g de judías blancas secas, 1c de sésamo, 1/2 cucharadita de pimentón,  1 cucharada de zumo de limón, ajo,  1/2 cucharadita de perejil, 1 cucharadita de aceite de oliva virgen y sal.",
+                            "recipe": "Se prepara el tahini tostando ligeramente el sésamo en una sartén. Añadir a la licuadora junto con dos cucharadas de aceite y licuar. Añadir entonces  el zumo de limón, el diente de ajo y la sal y licuar de nuevo. Incorporar las judías blancas y triturar hasta que quede una pasta homogénea. Agregar entonces el pimentón en polvo.",
+                            "image": "https://nutricion.myvitale.com/images/dishes/hummus-de-judias-blancas.jpg"
+                        },
+                        {
+                            "name": "Albóndigas de pescado en salsa de azafrán",
+                            "type": 10,
+                            "typeName": "Primero",
+                            "carbs": 10,
+                            "proteins": 40,
+                            "fats": 10,
+                            "kcal": 350,
+                            "vegan": false,
+                            "glutenFree": false,
+                            "difficulty": 2,
+                            "ingredients": "150g de pescado, 50g de gambas peladas, 1 cucharadita de vino blanco, 1 cucharada de caldo de pescado, 50g de cebolleta, ajo, 1/2 huevo pequeño,  laurel, 1 cucharadita de pan rallado, cebollino, 1 cucharadita de harina para rebozar, perejil , pimienta blanca, sal y 1 cucharadita de aceite de oliva virgen.",
+                            "recipe": "Desmenuzar el pescado crudo y poner en un bol. Añadir el perejil picado, el huevo batido, el pan rallado, la pimienta blanca y un pellizco de sal. Si la consistencia es demasiado espesa se puede añadir un poco de caldo. Dar forma a las albóndigas y enharinarlas. Freír las albóndigas en una cazuela con abundante aceite de oliva virgen extra, vigilando que no se queme la harina. Reservar las albóndigas. Cortar la cebolla muy pequeña y dorarla en la misma sartén de las albóndigas, a fuego bajo. Añadir los ajos laminados y las hebras de azafrán. Cuando la cebolla esté transparente, añadir el vino. Esperar que se evapore el alcohol y después añadir el caldo de pescado y la hoja de laurel. Cocer hasta que la salsa vaya reduciendo y tanga consistencia de salsa. Añadir las albóndigas y finalmente las gambes, cocer 3 minutos mas y servir con cebollino cortado muy pequeño.",
+                            "image": "https://nutricion.myvitale.com/images/dishes/albondigas-de-pescado-en-salsa-de-azafran.jpg"
+                        },
+                        {
+                            "name": "Uvas",
+                            "type": 12,
+                            "typeName": "Postre",
+                            "carbs": 20,
+                            "proteins": 0,
+                            "fats": 0,
+                            "kcal": 60,
+                            "vegan": true,
+                            "glutenFree": true,
+                            "difficulty": 1,
+                            "ingredients": "100g de uvas",
+                            "recipe": "",
+                            "image": "https://nutricion.myvitale.com/images/dishes/uvas.jpg"
+                        }
+                    ]
+                },
+                {
+                    "intakeId": 327,
+                    "day": 7,
+                    "order": 3,
+                    "name": "Cena",
+                    "carbs": 40,
+                    "proteins": 30,
+                    "fats": 30,
+                    "kcal": 550,
+                    "dishes": [
+                        {
+                            "name": "Crema de puerros",
+                            "type": 10,
+                            "typeName": "Primero",
+                            "carbs": 20,
+                            "proteins": 0,
+                            "fats": 5,
+                            "kcal": 150,
+                            "vegan": true,
+                            "glutenFree": false,
+                            "difficulty": 1,
+                            "ingredients": "1 puerro, 1 patata pequeña, 1 zanahoria pequeña, 40g de cebolleta, 20g de pan integral., ajo, 1cucharadita de aceite oliva virgen. ",
+                            "recipe": "Picar todos los ingredientes y pochar enb una olla con un chorrito de aceite de oliva. Añadir los ajos y un poco de sal. Una vez coge color se añaden 2 vasos de agua y cocer durante unos 20 minutos. Posteriormente, triturar con la batidora hasta que quede lommás homogéneo posible. Acompañar el plato con pan integral.",
+                            "image": "https://nutricion.myvitale.com/images/dishes/crema-de-puerros.jpg"
+                        },
+                        {
+                            "name": "Revuelto de ajos tiernos y gambas",
+                            "type": 11,
+                            "typeName": "Segundo",
+                            "carbs": 0,
+                            "proteins": 20,
+                            "fats": 20,
+                            "kcal": 250,
+                            "vegan": false,
+                            "glutenFree": true,
+                            "difficulty": 1,
+                            "ingredients": "100g de ajetes, 2 huevos , 4 gambas peladas, sal y 1 cucharadita de aceite de oliva virgen.",
+                            "recipe": "Cortar los ajetes en trozos de unos 3 cm y cocer durante unos 10 minutos hasta que estén tiernos. A continuación, escurrirlos y saltear en una sartén con un poco de aceite. Añadir las gambas cortadas en trozos pequeños. Batir los huevos y añadir a la sartén. Apagar el fuego y dejar cocer con el calor residual.",
+                            "image": "https://nutricion.myvitale.com/images/dishes/revuelto-de-ajos-tiernos-y-gambas.jpg"
+                        },
+                        {
+                            "name": "Yogur con frutos rojos",
+                            "type": 12,
+                            "typeName": "Postre",
+                            "carbs": 20,
+                            "proteins": 10,
+                            "fats": 5,
+                            "kcal": 150,
+                            "vegan": false,
+                            "glutenFree": true,
+                            "difficulty": 1,
+                            "ingredients": "1 yogur natural, 1500g de frutos rojos",
+                            "recipe": "",
+                            "image": "https://nutricion.myvitale.com/images/dishes/yogur-con-frutos-rojos.jpg"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

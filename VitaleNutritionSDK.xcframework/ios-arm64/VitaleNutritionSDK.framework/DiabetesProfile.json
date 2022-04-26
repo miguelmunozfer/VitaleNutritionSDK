@@ -1,0 +1,20 @@
+[
+	{
+		"title": "Eres hombre o mujer",
+		"identifier": "sexo",
+		"answerType": "closed",
+		"closedAnswers": ["Hombre", "Mujer"]
+	},
+    {
+        "title": "Fecha de nacimiento",
+        "identifier": "birthDate",
+        "answerType": "date",
+        "closedAnswers": null
+    },
+    {
+        "title": "Cuanto mides",
+        "identifier": "height",
+        "answerType": "number",
+        "closedAnswers": null
+    }
+]

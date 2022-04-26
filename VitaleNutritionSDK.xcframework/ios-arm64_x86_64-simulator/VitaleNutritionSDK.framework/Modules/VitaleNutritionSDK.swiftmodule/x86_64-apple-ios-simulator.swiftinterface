@@ -1,0 +1,74 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.6 (swiftlang-5.6.0.323.62 clang-1316.0.20.8)
+// swift-module-flags: -target x86_64-apple-ios11.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name VitaleNutritionSDK
+import Foundation
+import Hero
+import JWTDecode
+import Localize_Swift
+import Swift
+import UIKit
+@_exported import VitaleNutritionSDK
+import _Concurrency
+@_hasMissingDesignatedInitializers public class NutritionSDK {
+  public static let sharedInstance: VitaleNutritionSDK.NutritionSDK
+  public func start(with user: Swift.String, appID: Swift.String, password: Swift.String)
+  public func setPremiumText(_ text: Swift.String)
+  public func isPremiumUser(_ isPremium: Swift.Bool)
+  public func preferLargeTitlte(_ preferLarge: Swift.Bool)
+  public func startSession(appID: Swift.String, password: Swift.String)
+  public func logout()
+  public func setMainColor(color: Swift.String)
+  public func updateProfile(user: Swift.String, sex: Swift.String?, height: Swift.Int?, weigth: Swift.Int?, birthDate: Foundation.Date?, metabolismoBasal: Swift.Double, consumoKcal: Swift.Double, ingestas: Swift.Int, grupoMenu: Swift.Int, _ completion: @escaping ((Swift.Bool) -> ()))
+  public func showNutritionModule()
+  public func showTodayIntake(_ intakeNumber: Swift.Int)
+  public func getTodayMenu(_ completion: @escaping ((VitaleNutritionSDK.NutritionDay?) -> ()))
+  public func getTodayMenu() -> VitaleNutritionSDK.NutritionDay?
+  public func getNutritionModule(_ completion: @escaping ((UIKit.UIViewController?) -> ()))
+  public func getNumberOfIntakes(_ completion: @escaping ((Swift.Int) -> ()))
+  @objc deinit
+}
+@objc @_inheritsConvenienceInitializers @_Concurrency.MainActor(unsafe) open class VitaleViewController : UIKit.UIViewController {
+  @_Concurrency.MainActor(unsafe) @objc override dynamic open func viewDidLoad()
+  @_Concurrency.MainActor(unsafe) @objc override dynamic open func viewWillAppear(_ animated: Swift.Bool)
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public init(nibName nibNameOrNil: Swift.String?, bundle nibBundleOrNil: Foundation.Bundle?)
+  @_Concurrency.MainActor(unsafe) @objc required dynamic public init?(coder: Foundation.NSCoder)
+  @objc deinit
+}
+extension UIKit.UIFont {
+  public static func jbs_registerFont(withFilenameString filenameString: Swift.String, bundle: Foundation.Bundle)
+}
+public struct NutritionDay : Swift.Decodable {
+  public var day: Swift.Int?
+  public var intakes: [VitaleNutritionSDK.NutritionIntake]?
+  public func getOrderedIntakes() -> [VitaleNutritionSDK.NutritionIntake]?
+  public init(from decoder: Swift.Decoder) throws
+}
+public struct NutritionIntake : Swift.Decodable {
+  public var intakeId: Swift.Int?
+  public var mealId: Swift.Int?
+  public var isFav: Swift.Bool?
+  public var order: Swift.Int?
+  public var name: Swift.String?
+  public var carbs: Swift.Int?
+  public var fats: Swift.Int?
+  public var proteins: Swift.Int?
+  public var kcal: Swift.Int?
+  public var dishes: [VitaleNutritionSDK.NutritionDish]
+  public init(from decoder: Swift.Decoder) throws
+}
+public struct NutritionDish : Swift.Decodable {
+  public var typeName: Swift.String?
+  public var name: Swift.String?
+  public var category: Swift.String?
+  public var image: Swift.String?
+  public var kcal: Swift.Int?
+  public var proteins: Swift.Int?
+  public var carbs: Swift.Int?
+  public var fats: Swift.Int?
+  public var difficulty: Swift.Int?
+  public var vegan: Swift.Bool?
+  public var glutenFree: Swift.Bool?
+  public var ingredients: Swift.String?
+  public var recipe: Swift.String?
+  public init(from decoder: Swift.Decoder) throws
+}
